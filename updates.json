@@ -1,0 +1,12 @@
+{
+    "addons": {
+        "{8a039338-155a-4266-a5b5-eca1357b4ab5}": {
+            "updates": [
+                {
+                    "version": "1.1",
+                    "update_link": "https://github.com/meta-abhijit-jha/browser-extension/blob/master/hello_world-1.0-an%2Bfx.xpi"
+                }
+            ]
+        }
+    }
+}
