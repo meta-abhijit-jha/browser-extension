@@ -3,8 +3,8 @@
         "{8a039338-155a-4266-a5b5-eca1357b4ab5}": {
             "updates": [
                 {
-                    "version": "2.0",
-                    "update_link": "https://github.com/meta-abhijit-jha/browser-extension/blob/master/hello_world-2.0-an%2Bfx.xpi"
+                    "version": "2.2",
+                    "update_link": "https://github.com/meta-abhijit-jha/browser-extension/raw/master/hello_world-2.2-an%2Bfx.xpi"
                 }
             ]
         }
